@@ -6,11 +6,11 @@ Cet exercice a été réalisé dans le cadre de ma formation de développeuse. L
 
 ## Compétences à valider
 
-• Mettre en place une page web responsive et mobile first.
-• Créer une animation complète en CSS.
-• Ajouter un menu responsive avec Flexbox.
-• Développer une grille responsive d’articles avec Grid Layout.
-• Assurer le support pour les navigateurs plus anciens.
+- Mettre en place une page web responsive et mobile first.
+- Créer une animation complète en CSS.
+- Ajouter un menu responsive avec Flexbox.
+- Développer une grille responsive d’articles avec Grid Layout.
+- Assurer le support pour les navigateurs plus anciens.
 
 ## Fichiers
 
